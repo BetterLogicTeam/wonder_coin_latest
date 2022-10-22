@@ -1,0 +1,37 @@
+.footr_logo{
+    height: 48px;
+    margin-right: 68%;
+}
+.ffoter_para{
+    text-align: left !important;
+    font-size: 14px !important;
+    margin-top: 7px !important;
+        /* font-family: 'Poppins', sans-serif; */
+        font-family: 'Font Awesome 5 Free' !important;
+    
+        font-weight: 300 !important;
+        line-height: 1.7em !important;
+}
+.foot_pra
+{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    color: white;
+    text-align: center;
+    text-decoration: none !important;
+    
+}
+
+.foot_pra:hover{
+    color: white;
+}
+
+.icon_footer{
+    color: white !important;
+    margin-left: 10px;
+}
+.footer_main{
+    padding: 50px 0px;
+}
+
+

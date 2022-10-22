@@ -1,0 +1,129 @@
+
+
+
+
+                                               /* Responsive css for all the sit*/
+
+
+
+                                               /* Responsive csss section fot Lp farmaing */
+
+
+@media only screen and (max-width:600px){
+    .grp{
+        flex-direction:column !important ;
+    }
+
+
+    .rightt{
+        margin-left: 0px !important;
+    }
+    .iteem{
+        margin-top: 20px;
+    }
+
+    .Nav_link_class{
+        margin-left: 0px !important;
+    }
+}         
+
+
+
+
+
+                                    /* buy responsive css here  */
+
+
+
+@media only screen and (max-width:600px){
+
+
+    .buy_token{
+        height: 140px !important;
+        width: 43% !important;
+    }
+
+    .how-item::before {
+        position: absolute;
+        content: '';
+        width: 0px !important;
+        height: 0;
+        border: 1px dashed rgba(255, 200, 39, 0.7);
+        top: 60px;
+    }
+
+    .home_pa {
+  
+        font-size: 27px !important;
+        
+    }
+
+
+
+
+/* footer responsive css here */
+.foot_pra{
+    /* text-align: left !important; */
+    margin: 0px !important;
+}
+
+
+
+
+
+
+
+/* about page responsive css is here */
+
+.res_mt{
+    margin-top: 10px !important;
+}
+
+
+
+}                                    
+@media (min-width:610px) and (max-width:790px){
+    .foot_pra{
+        
+        margin: 0px !important;
+        text-align: center !important;
+    }
+
+    .input_btn{
+        padding: 10px !important;
+           }
+           .buy_token{
+
+            width: 45% !important;
+           }
+}
+
+
+
+@media (min-width:800px) and (max-width:1050px){
+     .buy_token{
+        width: 35% !important;
+     }
+     .foot_pra{
+        
+        margin: 0px !important;
+        text-align: center !important;
+    }
+
+}
+
+
+
+
+
+
+@media (min-width:1660px) and (max-width:3000px){
+    .foot_pra{
+        
+        margin: 0px !important;
+        text-align: center !important;
+    }
+
+
+}
+

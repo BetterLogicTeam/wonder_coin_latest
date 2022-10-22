@@ -1,0 +1,89 @@
+.nav_main{
+    background: #231f26!important;
+}
+.nav_logo{
+    height: 100px;
+    padding-top: 4px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.nav_linkk{
+    color:white;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 6px 11px 6px 11px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin:  6px 0px 9px;
+}
+
+.nav_linkk:hover{
+    color: grey;
+}
+.Nav_link_class{
+    margin-left: 20%;
+}
+
+.navbar-light .navbar-toggler-icon{
+color: white  !important;
+   
+}
+
+.navbar-toggler{
+    background: white !important;
+}
+
+
+.dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+    color: #fff !important;
+}
+
+ .dropdown-menu {
+    background: #332737 !important;
+color: white  !important;
+
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #fff !important ;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: #5c2d59 !important;
+
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #5c2d59 !important;
+
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+    color: #6c757d;
+    background-color: transparent
+}
+.Link_text{
+    text-decoration: none !important;
+    color: #fff !important;
+}
